@@ -10,7 +10,7 @@
 header {
     width: 100%;
     height: 420px;
-    background-image: url('../assets/banner-01.png');
+    background-image: url('../assets/banner-02.png');
     background-size: cover;
     background-position: center;
 }
@@ -51,7 +51,7 @@ header {
     border: none;
     overflow: visible;
     --tw-bg-opacity: 1;
-    background-color: rgb(65, 107, 254);
+    background-color: rgb(33, 80, 253);
     padding-left: 1.25rem;
     padding-right: 1.25rem;
     padding-top: 0.5rem;
